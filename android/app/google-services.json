@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766731515969",
+    "firebase_url": "https://study-plus-41350.firebaseio.com",
+    "project_id": "study-plus-41350",
+    "storage_bucket": "study-plus-41350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766731515969:android:43fb04b7324100be746ec0",
+        "android_client_info": {
+          "package_name": "com.studyfromhome.studyplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766731515969-f40r0lmeoei8nv95cp0a111n29eejiaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWO1h4q7g5-71L1yx3O6Op3qGAbbxfy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766731515969-f40r0lmeoei8nv95cp0a111n29eejiaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
